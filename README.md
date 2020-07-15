@@ -1,9 +1,9 @@
 <!-- TITLE/ -->
-# nuxt-pouchdb
+# @dword-design/nuxt-pouchdb
 <!-- /TITLE -->
 
 <!-- BADGES/ -->
-[![NPM version](https://img.shields.io/npm/v/nuxt-pouchdb.svg)](https://npmjs.org/package/nuxt-pouchdb)
+[![NPM version](https://img.shields.io/npm/v/@dword-design/nuxt-pouchdb.svg)](https://npmjs.org/package/@dword-design/nuxt-pouchdb)
 ![Linux macOS Windows compatible](https://img.shields.io/badge/os-linux%20%7C%C2%A0macos%20%7C%C2%A0windows-blue)
 [![Build status](https://img.shields.io/github/workflow/status/dword-design/nuxt-pouchdb/build)](https://github.com/dword-design/nuxt-pouchdb/actions)
 [![Coverage status](https://img.shields.io/coveralls/dword-design/nuxt-pouchdb)](https://coveralls.io/github/dword-design/nuxt-pouchdb)
@@ -22,10 +22,10 @@
 
 ```bash
 # NPM
-$ npm install nuxt-pouchdb
+$ npm install @dword-design/nuxt-pouchdb
 
 # Yarn
-$ yarn add nuxt-pouchdb
+$ yarn add @dword-design/nuxt-pouchdb
 ```
 <!-- /INSTALL -->
 
