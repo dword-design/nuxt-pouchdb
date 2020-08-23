@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/dword-design/nuxt-pouchdb/compare/v1.0.0...v1.0.1) (2020-08-23)
+
+
+### Bug Fixes
+
+* upgrades ([9676e16](https://github.com/dword-design/nuxt-pouchdb/commit/9676e169b2ad9476474b7f0c8ca5d62d41eae046))
+
 # 1.0.0 (2020-07-15)
 
 
