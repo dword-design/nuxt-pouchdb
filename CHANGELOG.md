@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/dword-design/nuxt-pouchdb/compare/v1.0.2...v1.0.3) (2020-12-11)
+
+
+### Bug Fixes
+
+* replace get-package-name with depcheck-package-name ([a58885e](https://github.com/dword-design/nuxt-pouchdb/commit/a58885e4cfce1a57786a9011b29a90aafdbdc723))
+
 ## [1.0.2](https://github.com/dword-design/nuxt-pouchdb/compare/v1.0.1...v1.0.2) (2020-12-02)
 
 
