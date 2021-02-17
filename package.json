@@ -10,7 +10,7 @@
     "dist"
   ],
   "scripts": {
-    "clean": "base clean",
+    "check-unknown-files": "base check-unknown-files",
     "commit": "base commit",
     "dev": "base dev",
     "lint": "base lint",
@@ -24,7 +24,7 @@
     "depcheck-package-name": "^1.0.0"
   },
   "devDependencies": {
-    "@dword-design/base": "^6.20.4"
+    "@dword-design/base": "^7.0.0"
   },
   "publishConfig": {
     "access": "public"
