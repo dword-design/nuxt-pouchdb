@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/dword-design/nuxt-pouchdb/compare/v1.0.5...v1.0.6) (2021-03-22)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#10](https://github.com/dword-design/nuxt-pouchdb/issues/10)) ([611c9a8](https://github.com/dword-design/nuxt-pouchdb/commit/611c9a88a0be59120479ed593fa8a707a26b8c0b))
+
 ## [1.0.5](https://github.com/dword-design/nuxt-pouchdb/compare/v1.0.4...v1.0.5) (2021-03-17)
 
 
