@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/dword-design/nuxt-pouchdb/compare/v1.0.6...v1.0.7) (2021-03-23)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/functions to v3 ([#11](https://github.com/dword-design/nuxt-pouchdb/issues/11)) ([78bc7a6](https://github.com/dword-design/nuxt-pouchdb/commit/78bc7a66e478cec2cea7f8bb6067d46d88c202c6))
+
 ## [1.0.6](https://github.com/dword-design/nuxt-pouchdb/compare/v1.0.5...v1.0.6) (2021-03-22)
 
 
