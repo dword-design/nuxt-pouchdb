@@ -8,6 +8,7 @@ export default class {
 
   async login(credentials) {
     await this.$auth.reset()
+
     const user = await this.$auth.request({
       data: credentials,
       method: 'post',
