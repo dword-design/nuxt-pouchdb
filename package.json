@@ -22,7 +22,7 @@
   "dependencies": {
     "@dword-design/functions": "^3.0.0",
     "@dword-design/nuxt-auth": "^1.0.0",
-    "depcheck-package-name": "^1.0.0"
+    "depcheck-package-name": "^1.0.5"
   },
   "devDependencies": {
     "@dword-design/base": "^7.0.0"
