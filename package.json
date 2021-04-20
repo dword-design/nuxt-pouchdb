@@ -1,7 +1,7 @@
 {
   "name": "@dword-design/nuxt-pouchdb",
   "version": "1.0.9",
-  "description": "",
+  "description": null,
   "repository": "dword-design/nuxt-pouchdb",
   "funding": "https://www.buymeacoffee.com/dword",
   "license": "MIT",
@@ -29,5 +29,7 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "homepage": null,
+  "keywords": []
 }
