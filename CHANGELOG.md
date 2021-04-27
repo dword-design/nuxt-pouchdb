@@ -1,3 +1,10 @@
+## [1.0.12](https://github.com/dword-design/nuxt-pouchdb/compare/v1.0.11...v1.0.12) (2021-04-27)
+
+
+### Bug Fixes
+
+* await addModule ([#24](https://github.com/dword-design/nuxt-pouchdb/issues/24)) ([d9756f4](https://github.com/dword-design/nuxt-pouchdb/commit/d9756f49399a835b937da90ade04be4aedda8a0c))
+
 ## [1.0.11](https://github.com/dword-design/nuxt-pouchdb/compare/v1.0.10...v1.0.11) (2021-04-22)
 
 
