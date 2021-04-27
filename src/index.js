@@ -1,9 +1,9 @@
 import { identity } from '@dword-design/functions'
 import packageName from 'depcheck-package-name'
 
-export default function (moduleOptions) {
+export default async function (moduleOptions) {
   const options = { ...this.options.pouchdb, ...moduleOptions }
-  this.addModule([
+  await this.addModule([
     packageName`@dword-design/nuxt-auth`,
     {
       redirect: options.redirect,
