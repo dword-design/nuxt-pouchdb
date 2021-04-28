@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/dword-design/nuxt-pouchdb/compare/v1.0.12...v1.0.13) (2021-04-28)
+
+
+### Bug Fixes
+
+* updated package.json[description] ([#22](https://github.com/dword-design/nuxt-pouchdb/issues/22)) ([df10d09](https://github.com/dword-design/nuxt-pouchdb/commit/df10d096a1129b536c8713cbb48996b83d6f1ef8))
+
 ## [1.0.12](https://github.com/dword-design/nuxt-pouchdb/compare/v1.0.11...v1.0.12) (2021-04-27)
 
 
