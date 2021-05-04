@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/dword-design/nuxt-pouchdb/compare/v2.0.1...v2.0.2) (2021-05-04)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/nuxt-auth to v2 ([#28](https://github.com/dword-design/nuxt-pouchdb/issues/28)) ([f1bdd4f](https://github.com/dword-design/nuxt-pouchdb/commit/f1bdd4f55fd89ef5e582b4e322cf76ccc924e87a))
+
 ## [2.0.1](https://github.com/dword-design/nuxt-pouchdb/compare/v2.0.0...v2.0.1) (2021-05-04)
 
 
