@@ -1263,13 +1263,13 @@
     lodash "^4.17.15"
     tinycolor2 "^1.4.1"
 
-"@dword-design/nuxt-auth@^1.0.0":
-  version "1.0.10"
-  resolved "https://registry.yarnpkg.com/@dword-design/nuxt-auth/-/nuxt-auth-1.0.10.tgz#c7f95bbae4ada42d3eb2d2676a8db6035b34a5d0"
-  integrity sha512-fx5gIvKD6nTDmrh1LtAqH2uXdYvR6QO01XPkppS1bfcxwv3MtECeXp5NzNhr+wDDzJD+3B2+neJcwbp5na2mbw==
+"@dword-design/nuxt-auth@^2.0.0":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@dword-design/nuxt-auth/-/nuxt-auth-2.0.1.tgz#677bf56fbc36e34999e3cfa2daa2fe01b3277a97"
+  integrity sha512-2D3fWO9vewiHE3r4DC9Fixno1qnKTeHe+WID+97T5Ikfo/e6ZMYU47xX/a6SOg6IFXnl8Qsk4e3o+cRcsVdzGg==
   dependencies:
     "@nuxtjs/auth" "^4.9.1"
-    depcheck-package-name "^1.0.0"
+    depcheck-package-name "^2.0.0"
 
 "@eslint/eslintrc@^0.4.0":
   version "0.4.0"
