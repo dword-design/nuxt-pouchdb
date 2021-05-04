@@ -1,3 +1,11 @@
+## [2.0.1](https://github.com/dword-design/nuxt-pouchdb/compare/v2.0.0...v2.0.1) (2021-05-04)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/functions to v4 ([#27](https://github.com/dword-design/nuxt-pouchdb/issues/27)) ([6f32ee1](https://github.com/dword-design/nuxt-pouchdb/commit/6f32ee193bc3852c243c57b17264503d3bb0260e))
+* update dependency depcheck-package-name to v2 ([#29](https://github.com/dword-design/nuxt-pouchdb/issues/29)) ([98e7cdf](https://github.com/dword-design/nuxt-pouchdb/commit/98e7cdf5c72a2834799d347df2fbed7526a92f40))
+
 # [2.0.0](https://github.com/dword-design/nuxt-pouchdb/compare/v1.0.13...v2.0.0) (2021-05-03)
 
 
