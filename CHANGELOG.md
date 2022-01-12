@@ -1,3 +1,10 @@
+## [2.0.8](https://github.com/dword-design/nuxt-pouchdb/compare/v2.0.7...v2.0.8) (2022-01-12)
+
+
+### Bug Fixes
+
+* update config files ([6185bd7](https://github.com/dword-design/nuxt-pouchdb/commit/6185bd7d5b19f921656c54a620a3ed7715893e5e))
+
 ## [2.0.7](https://github.com/dword-design/nuxt-pouchdb/compare/v2.0.6...v2.0.7) (2022-01-04)
 
 
